@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-nboardclip",
+  "version": "0.1.0",
+  "description": "Plungin for doning clipboard operation",
+  "cordova": {
+    "id": "cordova.pluging.nboardclip",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Error57nk/cordova-plugin-nboardclip.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Nitesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Error57nk/cordova-plugin-nboardclip/issues"
+  },
+  "homepage": "https://github.com/Error57nk/cordova-plugin-nboardclip#readme"
+}
